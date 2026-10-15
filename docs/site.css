@@ -9,11 +9,11 @@
 :root {
   --bg: #f8f5ee;
   --fg: #2a2620;
-  --muted: #7d7568;
+  --muted: #6b6357;
   --panel: #efeae0;
   --card: #fbf9f4;
   --line: #e2dcd0;
-  --accent: #9c5b23;
+  --accent: #8a4e1b;
   --accent-fg: #fff;
   --shadow: 0 30px 60px rgb(40 30 20 / 0.22);
   --serif: 'PT Serif', Georgia, serif;
@@ -118,7 +118,7 @@ h2 { margin: 8px 0 26px; font: 700 clamp(26px, 3.2vw, 34px)/1.2 var(--serif); ov
 .dl-row:hover { text-decoration: none; }
 .dl-row div { flex: 1; }
 .dl-row b { display: block; font-size: 16px; }
-.dl-row span { font-size: 13px; line-height: 1.35; color: var(--muted); }
+.dl-row > div span { font-size: 13px; line-height: 1.35; color: var(--muted); }
 .dl-row em { display: flex; align-items: center; gap: 6px; padding: 8px 14px; border-radius: 12px; background: var(--panel); color: var(--accent); font: 700 14px var(--sans); }
 .dl-row em svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 .dl-row.mine em { background: var(--accent); color: var(--accent-fg); }
@@ -146,7 +146,7 @@ h2 { margin: 8px 0 26px; font: 700 clamp(26px, 3.2vw, 34px)/1.2 var(--serif); ov
 .doc .meta { color: var(--muted); font-size: 15px; }
 .contact { display: flex; align-items: center; gap: 16px; padding: 20px 24px; margin-bottom: 22px; border-radius: 18px; background: var(--panel); }
 .contact div { flex: 1; }
-.contact span { color: var(--muted); }
+.contact > div span { color: var(--muted); }
 .help { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 16px; }
 .help .card p { font-size: 16px; line-height: 1.6; }
 .help .card h3 { margin-top: 0; font-size: 19px; }
