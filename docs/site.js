@@ -44,9 +44,6 @@
     supKicker: 'Поддержка', supTitle: 'Чем помочь?', supLead: 'Ответы на частые вопросы. Не нашли своего — напишите, отвечаю сам, обычно в течение дня.',
     supWrite: 'Написать разработчику', supWriteSub: 'приложите версию из «Аккаунт и приложение»', supBtn: 'Написать',
     privTitle: 'Политика конфиденциальности',
-    mockCont: 'ПРОДОЛЖИТЬ', mockBook: 'Анна Каренина', mockPage: 'стр. 127 из 388', mockChapter: 'Глава первая',
-    mockTablet: 'Левин был влюблён в Кити и поехал в Москву с одною целью — сделать предложение. Он испытывал при этом то чувство, которое испытывает человек, решившийся на важный шаг; <mark>он думал о ней постоянно</mark>, но боялся, что не достоин её. Весь день он ходил по Москве, не находя себе места, и только к вечеру решился поехать к Щербацким.',
-    mockPhone: 'Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему. Всё смешалось в доме Облонских. Жена узнала, что муж был в связи с бывшею в их доме француженкою-гувернанткой, и объявила мужу, что не может жить с ним в одном доме. Положение это продолжалось уже третий день и мучительно чувствовалось и самими супругами, и всеми членами семьи, и домочадцами.',
   };
   const FR = {
     navFeatures: 'Fonctions', navDownload: 'Télécharger', navSupport: 'Aide',
@@ -75,9 +72,6 @@
     q3: 'Où sont mes livres ?', a3: 'Sur votre appareil. Si vous êtes connecté, les fichiers sont aussi dans un espace cloud privé en UE, pour ouvrir le livre sur un autre appareil.',
     q4: 'Quels formats ?', a4: 'FB2, FB2.ZIP, EPUB et TXT. Pas encore de PDF.',
     footSupport: 'Aide', footPrivacy: 'Confidentialité', footReleases: 'Toutes les versions', footContact: 'Contact', footBy: '© 2026 Vladimir Zelinskyi',
-    mockCont: 'CONTINUER', mockBook: 'Anna Karénine', mockPage: 'p. 127 sur 388', mockChapter: 'Chapitre premier',
-    mockTablet: 'Levine était amoureux de Kitty et était venu à Moscou dans un seul but : la demander en mariage. Il éprouvait ce qu’éprouve l’homme qui s’est décidé à un pas important ; <mark>il pensait à elle sans cesse</mark>, mais craignait de ne pas être digne d’elle.',
-    mockPhone: 'Toutes les familles heureuses se ressemblent, mais chaque famille malheureuse l’est à sa façon. Tout était sens dessus dessous chez les Oblonski. La femme avait appris que le mari avait une liaison avec l’ancienne gouvernante française de leurs enfants, et elle avait déclaré qu’elle ne pouvait plus vivre sous le même toit que lui. Cette situation durait depuis trois jours, et elle pesait douloureusement sur les époux eux-mêmes comme sur toute la maison.',
   };
   const DE = {
     navFeatures: 'Funktionen', navDownload: 'Download', navSupport: 'Hilfe',
@@ -106,9 +100,6 @@
     q3: 'Wo liegen meine Bücher?', a3: 'Auf Ihrem Gerät. Wenn Sie angemeldet sind, liegen die Dateien zusätzlich in privatem Cloud-Speicher in der EU – für das Öffnen auf anderen Geräten.',
     q4: 'Welche Formate?', a4: 'FB2, FB2.ZIP, EPUB und TXT. PDF noch nicht.',
     footSupport: 'Hilfe', footPrivacy: 'Datenschutz', footReleases: 'Alle Versionen', footContact: 'Kontakt', footBy: '© 2026 Vladimir Zelinskyi',
-    mockCont: 'WEITERLESEN', mockBook: 'Anna Karenina', mockPage: 'S. 127 von 388', mockChapter: 'Erstes Kapitel',
-    mockTablet: 'Lewin war in Kitty verliebt und nur aus einem Grund nach Moskau gekommen: um ihr einen Antrag zu machen. Er fühlte, was ein Mensch fühlt, der sich zu einem wichtigen Schritt entschlossen hat; <mark>er dachte unablässig an sie</mark> und fürchtete doch, ihrer nicht würdig zu sein.',
-    mockPhone: 'Alle glücklichen Familien gleichen einander, jede unglückliche Familie ist auf ihre eigene Weise unglücklich. Im Hause Oblonski ging alles drunter und drüber. Die Frau hatte erfahren, dass der Mann ein Verhältnis mit der früheren französischen Gouvernante hatte, und ihm erklärt, sie könne nicht länger mit ihm unter einem Dach leben. Dieser Zustand dauerte nun schon den dritten Tag und lastete schwer auf den Eheleuten und dem ganzen Haus.',
   };
   const ES = {
     navFeatures: 'Funciones', navDownload: 'Descargar', navSupport: 'Ayuda',
@@ -137,9 +128,6 @@
     q3: '¿Dónde se guardan mis libros?', a3: 'En su dispositivo. Si inicia sesión, los archivos también se guardan en una nube privada en la UE, para abrir el libro en otro dispositivo.',
     q4: '¿Qué formatos?', a4: 'FB2, FB2.ZIP, EPUB y TXT. PDF todavía no.',
     footSupport: 'Ayuda', footPrivacy: 'Privacidad', footReleases: 'Todas las versiones', footContact: 'Contacto', footBy: '© 2026 Vladimir Zelinskyi',
-    mockCont: 'SEGUIR LEYENDO', mockBook: 'Ana Karénina', mockPage: 'pág. 127 de 388', mockChapter: 'Capítulo primero',
-    mockTablet: 'Levin estaba enamorado de Kitty y había ido a Moscú con un solo fin: pedir su mano. Sentía lo que siente quien se ha decidido a dar un paso importante; <mark>pensaba en ella sin cesar</mark>, pero temía no ser digno de ella.',
-    mockPhone: 'Todas las familias felices se parecen; cada familia desdichada lo es a su manera. En casa de los Oblonski andaba todo trastornado. La esposa se había enterado de que el marido tenía amores con la antigua institutriz francesa y le había dicho que no podía seguir viviendo con él bajo el mismo techo. La situación duraba ya tres días y pesaba dolorosamente sobre los esposos y sobre toda la casa.',
   };
   const EN = {};
   const L = { ru: RU, fr: FR, de: DE, es: ES };
@@ -164,6 +152,7 @@
   function apply() {
     document.documentElement.lang = lang;
     document.documentElement.dataset.lang = lang;
+    for (const img of document.querySelectorAll('img[data-shot]')) img.src = `shots/${lang === 'ru' ? 'ru' : 'en'}-${img.dataset.shot}.webp`;
     for (const n of document.querySelectorAll('[data-t]')) {
       const key = n.dataset.t;
       if (!(key in EN)) EN[key] = n.innerHTML;
